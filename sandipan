@@ -1,0 +1,215 @@
+Description
+
+Enit
+
+Earthwork, Stone/Brick Work, Wood Work/Sunshadem Surface Shallow Excavation
+
+Painting, Soling. DPC, Plastering
+
+Steel/Iron Work
+
+kg/Quintel
+
+Dressing of stone/Half Brick wall/partition wall Painting Work/Distemper/Colour Washing/Jali Workm
+
+Degree of Accuracy: Wood Work: 2mm, Weight-1 kg, length 1 cm, Area-0.01 m², Volume-0.01 m²
+
+Purpose of Valuation
+
+(a) Taxation-(10-14%)
+
+(b) Rent fixation- 16-10\% of total value)
+
+Outgoing: (a) Repairness- -(10-15)\% total Income
+
+(b) Management and collection Charge-(5-10)% of total Income.
+
+Courtyard, play ground, unclosed Balcony, cantilever porch
+
+is not included in plinth area.
+
+Carpet Area: Useable area/Living area
+
+CA. Total floor area (circulation area + Non-useable area)
+
+C.A. in residential area (50-65)% and in commercial area
+
+(60-75)^{8}/_{6.}
+
+Work
+
+Departmental charges (centage charge).
+
+Contractor charge
+
+Labour Charge
+
+Electrification
+
+Electric fan
+
+Saniatory and Water Supply Charge
+
+Contigences Charges Work Charge Establishment
+
+Tools and Plants
+
+% of Estimate
+
+(10-15)
+
+(1.5-2)
+
+(1-1.5)
+
+Security money is about 10% of total contract including Earnest Money.
+
+Scrap Value: It is about 10% of total value. It is the value of
+
+Dismental Material. Salvage Value: It is value at the end of Utility period without being this dismental.
+
+Sinking Fund: Annual Installment (f)=\frac{Sj_{c}}{(1+i)^{n}-1}=I_{c}S
+
+(a) Straight line Method: Assume depreciation by same D=\frac{C-S}{n}
+
+amount
+
+(b) Constant percentage Method: Also called Balancing Decline Method. It assume depreciation by same.
+
+percentage.
+
+General Overhead Cost
+
+Job Overhead Cost
+
+Telephone Bill
+
+Salary Delay
+
+Security money and Earnest Money refundable after
+
+time Without Any Interest.
+
+Types of Contract: Lum sum, unit price, cost plus contract.
+
+Types of Frap: P, Q, S (Shape), Intercepting, Gully, Floor (Pur-
+
+pose)
+
+Chief Engineer is the Administrative Head of Department & Directly responsible to the govt.
+
+Plastering Work:
+
+(a) Volume is increased by 30% (if thickness 12 mm) &
+
+20% (if thickness 20 mm) due to uneven surface. (b) Above calculated vol. is increased by 25% for dry vol.
+
+calculation.
+
+Flooring Work:
+
+(a) Volume is increased by 10% due to uneven surface.
+
+( b) Above calculated vol. is increased by 50% for dry vol.
+
+calculation.
+
+Dammy Activity: It artificial activity represented by dashed arrows which neither consumes any time nor resources.
+
+any problems
+
+of the activity.
+
+(b) Pessim
+
+required for a
+
+conditions pr
+
+catastrophes li
+
+(c) Most La & optimistic t
+
+activity if nors
+
+Activity G is dummy activity, Dummies maintain the logic of & keeps the numbering system of the network
+
+network diagram unique.
+
+Mean time
+
+Slack: It is associated with. event. It is the difference between
+
+the latest allowable occurrence time & earliest expected occurrence time of the event. It is the excess time by which occurence of an event can be delayed without affecting the project
+
+completion time.
+
+Types of Slack
+
+( (b) Zero slack (S=0)-T_{s}=T_{s}
+
+a) Positive slack (S>0) T_{x}>T_{x}
+
+(c) Negative slack (S<0)-T_{x}<T_{x}
+
+LFTEST
+
+Total float
+
+EFTLFT
+
+Independent float
+
+EFT -LST-t_{G}
+
+Free float
+
+(EFT-EST-t_{ij})\nu
+
+Activity Name (EST, EFT)
+
+Interfering
+
+float
+
+(LFT-EFT)-
+
+Deviation (
+
+Variance:
+
+PERT
+
+Probabilistie
+
+2. Three time
+
+B.Exent orient
+
+4. Cost is prop
+
+5.B-distributie
+
+h.Concept of
+
+7.Critical pat
+
+critical ever
+
+Crashing:
+
+along the longu
+
+path to obtain
+
+Updating:
+
+execution
+
+requirements
+
+D=1-(\frac{S}{C})^{+\infty}
+
+\dot{\Lambda}
+
+\overline{EST}
